@@ -1,6 +1,6 @@
 {
   "name": "@wrongnestjs/cloudinary",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Cloudinary module for nest.js",
   "author": "Laslo Kiniaevsky",
   "license": "MIT",
