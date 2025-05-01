@@ -1,0 +1,12 @@
+# Exclude TypeScript source files
+/src/
+
+# Exclude development-related files
+/node_modules/
+.eslintrc.js
+.prettierrc
+nest-cli.json
+package-lock.json
+tsconfig.build.json
+tsconfig.json
+tsconfig.tsbuildinfo
